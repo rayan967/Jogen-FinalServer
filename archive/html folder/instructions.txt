@@ -1,0 +1,4 @@
+Only upload 2 files as example.
+
+Download all anime HTML files to do data scraping in this link: https://drive.google.com/file/d/1laYyz5WVuaxDhhpLmIvCCFsYRAXvaEoF/view?usp=sharing
+
